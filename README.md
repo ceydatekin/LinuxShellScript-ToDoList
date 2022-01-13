@@ -1,6 +1,6 @@
 ﻿# Linux Shell Programlama Projesi : TO DO LIST 
 
-* Linux shell script, whiptail ve Zenity kütüphanesi ile yazılan, basit TO DO LIST programıdır. Programın YouTube videosu ile açıklanmış hali linktedir.
+* Linux shell script, whiptail ve Zenity kütüphanesi ile yazılan, basit TO DO LIST programıdır. Programın YouTube videosu ile açıklanmış hali <a href="https://youtu.be/dTfYojtNAXU">linktedir.</a>
 ## Gerekli Kurulumlar
 * GNU LINUX'da `ctrl+alt+t` ile terminali açabilirsiniz. 
 * `apt-get install whiptail` komutu ile Whiptail'i çalışma ortamınıza kurabilirsiniz.
