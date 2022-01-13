@@ -1,0 +1,3 @@
+TRUE,Sinav1,Fizik Sinavi,Gerekli,30-01-2022
+TRUE,Sinav4,Deneme Sinavi,Onemsiz,20-02-2022
+TRUE,gorevler,gorevlerr,Gerekli,14-01-2022

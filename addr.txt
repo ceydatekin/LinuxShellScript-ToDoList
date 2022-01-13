@@ -1,0 +1,4 @@
+FALSE,Sinav2,Kimya Sinavi,Cok Onemli,22-01-2022
+FALSE,Sinav3,Matematik Sinavi,Az Onemli,23-01-2022
+FALSE,benzersiz,deneme gorevi,Cok Onemli,28-01-2022
+FALSE,gorevler,gorevlerr,Gerekli,14-01-2022
